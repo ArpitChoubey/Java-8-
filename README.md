@@ -1,2 +1,2 @@
-# JavaInterviewQuestionPractice
-General Asked Java Programming Question 
+# Java 8 
+Java 8 Lambda Expression and Stream API
