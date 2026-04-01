@@ -1,4 +1,4 @@
-Java 8 Features — Complete Hands-on Repository 🚀
+Java 8 utilities-for-test-automation 
 
 Welcome to my Java 8 Practice Repository, where I’ve compiled hands-on examples covering the most essential and powerful features of Java 8, including:
 ✅ Lambda Expressions
